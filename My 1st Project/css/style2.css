@@ -1,0 +1,32 @@
+body{
+  background-color: #C6FFDA;
+  font-family: 'Pacifico', cursive;
+}
+.ne{color: yellow}
+header{
+  background-color: #F8E7A9;
+}
+section{
+  margin-left: 20px;
+  padding-left: 10px;
+  background-color: #EBB8F5;
+}
+h1{
+  color: #57A1F9;
+  font-size: 40px;
+  font-family: 'Righteous', cursive;
+}
+h3{
+  color: #204142;
+  font-family: 'Texturina', serif;
+}
+h4{
+  color: #204142;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #04882A;
+  border-width: 10px;
+  width: 10%;
+}
